@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: content-box;
-  font-family: 'Rubik', 'Segoe UI', sans-serif;
+  font-family: 'Rubik', 'Segoe UI';
   width: 100%;
   height: 100%;
   overflow-x: hidden;
